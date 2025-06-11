@@ -1,6 +1,6 @@
-# 🛡️ Golang RBAC System with Gin, GORM, and PostgreSQL
+# 🛡️ EdTech Platform using Golang and PostgreSQL
 
-This is a working prototype of a **Role-Based Access Control (RBAC)** system built using:
+This is a working prototype of a **Hybrid System i.e Role-Based Access Control (RBAC) + Access Control Lists (ACL)** system built using:
 
 - 🧠 Go (Golang)
 - ⚙️ Gin web framework
